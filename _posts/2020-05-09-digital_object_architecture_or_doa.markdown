@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Digital Object Architecture or DOA"
-date:       2020-05-09 19:54:59 +0000
+date:       2020-05-09 15:55:00 -0400
 permalink:  digital_object_architecture_or_doa
 ---
 
